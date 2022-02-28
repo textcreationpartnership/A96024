@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox cœli to England, or Englands fore-warning from heaven. Being a relation of true, strange, and wonderfull visions, and propheticall revelations, concerning these tragicall, sinfull times; and with what care and diligence reconciliation ought to be laboured for, between the King and Parliament, having never been heretofore published. Now thought fit to be published to all that love Christ, and his kingdom in sincerity. / By Theophilus Philalethes Toxander. Published according to order.</title>
+            <author>Toxander, Theophilus Philalethes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96024</idno>
+            <idno type="STC">Wing V717</idno>
+            <idno type="STC">Thomason E362_10</idno>
+            <idno type="STC">ESTC R201214</idno>
+            <idno type="EEBO-CITATION">99861746</idno>
+            <idno type="PROQUEST">99861746</idno>
+            <idno type="VID">113889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113889)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox cœli to England, or Englands fore-warning from heaven. Being a relation of true, strange, and wonderfull visions, and propheticall revelations, concerning these tragicall, sinfull times; and with what care and diligence reconciliation ought to be laboured for, between the King and Parliament, having never been heretofore published. Now thought fit to be published to all that love Christ, and his kingdom in sincerity. / By Theophilus Philalethes Toxander. Published according to order.</title>
+                  <author>Toxander, Theophilus Philalethes.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Describes the revelations and subsequent experiences of Grace Cary.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 16th".</note>
+                  <note>Theophilus Philalethes Toxander is a pseudonym.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cary, Grace.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113889:1"/>
+            <pb facs="tcp:113889:1" rendition="simple:additions"/>
+            <p>
+               <hi>Vox Coeli</hi> TO ENGLAND, OR, Englands fore-warning from HEAVEN.</p>
+            <p>Being a Relation of true, ſtrange, and wonderfull Viſions, and Propheticall Revelati<g ref="char:EOLhyphen"/>ons, concerning theſe tragicall ſinfull times; and with what care and diligence Reconciliation ought to be laboured for, between the King and Parliament, having never been heretofore publiſhed.</p>
+            <p>Now thought fit to be publiſhed to all that love Chriſt, and his Kingdom in ſincerity.</p>
+            <p>By <hi>Theophilus Philalethes Toxander.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 19.29.</hi>
+               </bibl>
+               <p>Judgements are prepared for ſcorners, and ſtripes for the back of fools.</p>
+            </q>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E.W.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113889:2" rendition="simple:additions"/>
+            <pb facs="tcp:113889:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <head type="sub">The Publiſher vviſheth love to Chriſt, and to his <hi>Kingdom; and the ſpirit of a ſound minde.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved Brother, whoſoever thou art, in whoſe breſt the zeal of Gods Houſe findeth place (for we need not look for many whom,<note place="margin">Pſal. 69 9. Ioh. 2.17.</note> with <hi>David,</hi> it eateth up) thou needſt not doubt of the truth of this Relation, nor fore<g ref="char:EOLhyphen"/>deem it as a forgerie; ſince there be many worthy Chri<g ref="char:EOLhyphen"/>ſtians, to whoſe hands I doubt not but it will come as well in Print, as it did before in writ, who (if they ſhall think it expedient) can well ſatisfie any man of the truth of it: and ſome (if it were fitting ſo to do without their con<g ref="char:EOLhyphen"/>ſent) I could name. Onely lay aſide prejudice, and read it over but with unbyaſſed affections, and candid judgement, and thou mayſt find matter enough in it ſelf to vindicate it from ſuch aſperſion, if thou wilt be curious to put it ſo far to the triall. Two eminent perſons are named to thee in it, the Marques of <hi>Hambleton,</hi> and the Princes Tutor; times and places particularly ſet down, and beſide His Ma<g ref="char:EOLhyphen"/>jeſtie and the two aforeſaid, divers Members of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> hinted at, who all know to be true, what is therein ſet down concerning them. The viſions were ſhewed, ſome of them, ſix or ſeven yeers ſince, at leaſt, if not more; and the lateſt here mentioned, but about the time of the Kings departure from the <hi>Parliament.</hi> The party to whom they were ſhewed, having miſſed of the principalaime of them, which was to have ſhown them to His Majeſty, and which was endeavoured with great travell and expence, but not
+<pb facs="tcp:113889:3"/>obtained, His Majeſty utterly denying to vouchſafe His audience; the party, I ſay, was at laſt induced by divers perſons of eminent qualitie and parts to relate in writ, and repreſent the truth therein to ſome ſelect, zealous, and re<g ref="char:EOLhyphen"/>ligious Chriſtians: which was done, and the Copy dated <hi>Apr.</hi> 1644. And now by ſome of theſe it is thought ex<g ref="char:EOLhyphen"/>pedient to publiſh it for the common good: the juncture of times being much other, nor then it was; and requiring other procedors almoſt in all affairs. If then thou read this with a right diſpoſition, for whoſe good I have publiſh<g ref="char:EOLhyphen"/>ed it, thou canſt have nothing but edification from it, and comfort in theſe diſconſolate times: if otherwiſe, we know the Scripture it ſelf is not priviledged (to our great grief) in this Kingdom from being blaſphemed and abu<g ref="char:EOLhyphen"/>ſed. But leaving others to their own humors, and judge, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou, gracious Chriſtian, who having kept thy ſelf <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee from the ſpirit of giddineſſe and deluſion, that is a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oaving through this Land, deſireſt to walk humbly with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and not making haſte, but beleeving and wait<g ref="char:EOLhyphen"/>ing upon him, art neither aſhamed, nor afraid to ſhew thy ſelf ſad in publick with <hi>Nehemiah,</hi> becauſe the wall of Jeruſalem lyes yet broken down, and the gates thereof burnt with fire, findſt any good thereby, I have my intent: and if I find it acceptable to thee, ere it be long, thou mayeſt have by Gods aſsiſtance more and better of this kinde.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb n="1" facs="tcp:113889:3"/>
+            <head>THE FORE-SPEECH OF the firſt Copy.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O all Gods Saints and faithfull ſervants, which diligently obſerve his ordinances in keeping his Commandments, and walk mournfully before the Lord of hoaſts in theſe black and dreadfull times of the fiery triall and bloody agony of his Church.</p>
+            <p>1 Pet. 4.12. <hi>Beloved, think it not ſtrange concerning the fiery triall, which is to try you, as though ſome ſtrange thing happened unto you.</hi> 13 <hi>But rejoyce, in as much as ye are partakers of Chriſts ſufferings.</hi> 14 <hi>For the Spi<g ref="char:EOLhyphen"/>rit of glory, and of God reſteth upon you.</hi> 15 <hi>But let none of you ſuffer as a murtherer, or as a thief, or as an evill doer, or as a buſie-body in other mens matters.</hi> 16 <hi>But, if as a Chriſtian, let him not be aſhamed, but let him glorifie God on this behalf.</hi> 17 <hi>For the time is, that judgement muſt begin at the houſe of God: and if it firſt begin at us, what ſhall be the end of them that obey not the Goſpel of God?</hi> 18 <hi>And if the righte<g ref="char:EOLhyphen"/>ous ſcarcely be ſaved, where ſhall the ungodly and ſinner appear?</hi>
+            </p>
+            <p>Matth. 7.15. <hi>Beware of falſe prophets, which come to you in ſheeps clothing, but inwardly they are ravening wolves.</hi> 16 <hi>Ye ſhall know them by their fruits.</hi> 19 <hi>Every tree that bringeth not forth good fruits, is hewen down, and caſt into the fire.</hi>
+            </p>
+            <p>1 Tim. 6.3. <hi>If any man conſent not to wholſome words, even that do<g ref="char:EOLhyphen"/>ctrine that is according to godlineſſe,</hi> 4 <hi>He is proud, knowing nothing, but doting about queſtions, and ſtrifes of words, whereof cometh envy, ſtrife, railings, evill ſurmiſings,</hi> 5 <hi>Perverſe diſputings of men that are corrupted in their judgements, and deſtitute of the truth, ſuppoſing that gain is godlineſſe:</hi> (behold here the fruits of falſe propheſie, and not onely of hereſie, but heterodoxie, or rather heterodidaſcaly; which is truly falſe propheſie) <hi>from ſuch withdraw thy ſelf.</hi> 2 Tim. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.16. <hi>Shun profane and vain janglings, for they will increaſe unto more <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>godlineſſe.</hi> 17 <hi>And their word will eat as doth a canker.</hi> Behold here
+<pb n="2" facs="tcp:113889:4"/>again the kindly fruits of falſe prophets: for they are inwardly ravening wolves, ſaith our Saviour; no queſtion, for the devour<g ref="char:EOLhyphen"/>ing nature of their doctrine: And here again <hi>Paul</hi> likeneth their doctrine to a canker or gangreen for the ſame cauſe of its eating, or devouring: for which cauſe alſo there is one ſort of canker, that is called a woolf.</p>
+            <p>Gal. 5.19. <hi>Now the works of the fleſh are manifeſt, adulterie, forni<g ref="char:EOLhyphen"/>cation, idolatrie, witchcraft, ſeditious, hereſies, murthers, drunkenneſſe, &amp;c. and ſuch like, of which I tell you, before ye do them, that they whcih do ſuch things ſhall not inherit the kingdom of God.</hi> Why! how now <hi>Paul?</hi> are the works of the fleſh manifeſt? and is hereſie one of thoſe? and as manifeſt as adultery, fornication, idolatry, witchcraft, murther, drunkenneſſe, &amp;c. and ſhall it as well exclude from the kingdom of heaven, as theſe? Now I ſee of a truth that you have not been of our Sectaries and Independents minde.</p>
+            <p>In this generall aſſault and fiery triall of the Church of Chriſt, by the machinations of that red Dragon in the <hi>Revel.</hi>
+               <note n="a" place="margin">Cap. 12.3, 7, 9.</note>, even that old ſerpent called the devil and Satan, that transforms his own apoſtles and angels into the Apoſtles of Chriſt, and him<g ref="char:EOLhyphen"/>ſelf into an Angel of light<note n="b" place="margin">2 Cor. 11.13, 14.</note>, and deceives the whole world, wherein all the principalities and powers, rulers of darkneſſe and ſpirituall wickedneſſe in high places<note n="c" place="margin">Epheſ. 6.12.</note>, are with all their power and policie, wiles and devices, ſtratagems and treache<g ref="char:EOLhyphen"/>ries, deſignes and depths of Satan, full charged, and furiouſly ingaged to root it out of Chriſtendome;<note place="margin">Revel. 2.24.</note> it concerns all that have any ſenſe of God, or of godlineſſe, not to be idle ſpectators, or hollow neutrals; but (ſince the publick is ever to be preferr'd be<g ref="char:EOLhyphen"/>fore private, ſpiritual before ſecular, and Gods glory before all) now or never by their utmoſt power, and endeavours, and libe<g ref="char:EOLhyphen"/>rall contributions of what they can bring conducefull to the cauſe, to help the Lord againſt the mighty, leſt that dreadfull curſe of <hi>Meroz</hi> deſervedly befall them<note n="d" place="margin">Iudg. 5.23.</note>. Whileſt others there<g ref="char:EOLhyphen"/>fore of greater wealth and worth contributed their means and endeavours largely to this juſt war, in the eyſe of it, againſt our Romiſh Philiſtines, and Antichriſtian Sectaries and Factioniſts; and as juſt may it prove, I pray heaven in the cloſe of it; I truſt it will not be unacceptable to any of Gods Saints and faithfull people, to preſent to their view this plain, yet pertinent relation
+<pb n="3" facs="tcp:113889:4"/>(though ſomewhat late, as ſome may think) for as much as though ſome Scenes be paſt, yet the Play is not done, but ano<g ref="char:EOLhyphen"/>ther Act like to begin, and perhaps more, that may bring a ſadder cataſtrophe, then moſt are aware of: Scribes and Phari<g ref="char:EOLhyphen"/>ſees, Eraſtians and Independents; Lawyers and Civilian-policy-mongers, with Sectaries and Libertine-conſcience-mongers, ha<g ref="char:EOLhyphen"/>ving now got the place of Straffordians and Canterburians; and as buſily compaſſing Sea and Land, as ever the others were, and leaving nothing uneſſay'd to make Proſelytes of their own kind, though when they were made, they became twofold more the children of hell, then before<note n="e" place="margin">Matth. 23.15.</note>. If it be but like the widows mite in the Goſpel; yet, (which maketh the mite a million) with a free heart, and a fervent zeal to the good of Gods people, and Church of Chriſt in <hi>England,</hi> ſhe caſts it up into the treaſurie.</p>
+         </div>
+         <div type="narration">
+            <head>The Narration.</head>
+            <p>
+               <hi>GRace Cary</hi> ſometime wife to Mr. <hi>Walter Cary</hi> of Briſtoll, in her widowhood at <hi>
+                  <g ref="char:V">Ʋ</g>ske</hi> in Monmouthſhire, betook her ſelf wholly to private prayer, and conſtant reading of the holy Scri<g ref="char:EOLhyphen"/>ptures (beſides her publick frequenting of the Houſe of God) for three yeers together: which task ſhe impoſed on her ſelf the bet<g ref="char:EOLhyphen"/>ter to inform her judgement in the wayes of God; there being even then ſo many by-wayes in the world, of Popery, and other nyce and crazie Sects, and her ſelf having been ſtrongly tempted to Popiſh ſuperſtition; from which temptation it pleaſed God to deliver her. For having with humble confidence implored the favour of God, and direction of his holy Spirit, and wreſtling one day by prayers and tears to overcome that temptation, ſhe had before day in a Sunday morning a moſt heavenly rapture or trance before ſhe was full awake, much about that houre that ſhe daily uſed to water her couch with tears, and to ſeek the Lord early in the morning. The manner of the trance was this. She was for a time in a ſweet celeſtiall extaſie of joy (whether in the body, or out of the body, ſhe knows not) being for the time in Paradice, as ſhe thought; where there were repreſented unto her, as it were, the appearance of the three moſt ſacred Perſons of the Trinity, which ſeemed to invite her to approach with
+<pb n="4" facs="tcp:113889:5"/>boldneſſe to the throne of grace. Being awake, ſhe felt in her ſelf a great delectation and inlargement of heart by ſpirituall joy and inward conſolation, which produced great melting of heart, and tears in abundance, accompanied with deep humi<g ref="char:EOLhyphen"/>liation and thankfull recognition of Gods wonderfull mercy to her poore deluded ſoul; ſhe having been formerly ſeduced to in<g ref="char:EOLhyphen"/>vocate Saints and Angels, and to ſay the <hi>Ave-mary</hi> for a prayer, as Papiſts fondly uſe in their blinde devotion: for thus far had ſhe gone. But being now ſtrongly confirmed in the Evangelicall truth, ſhe had a ſtrong deſire to walk worthy ſo rare and high a favour of ſo indulgent and gracious a God, reſolving ever after to walk in the practiſe of all divine duties, and ſerve God with pure worſhip. In purſuance of which pious exerciſes, it pleaſed God in a ſhort time after (which was in the yeer of the Lord 1639.) to ſhew her a further favour, though intermixt with a great affliction of ſpirit. For both in her private devotion, and in the publick miniſtration at Church, ſhe was in an extraordi<g ref="char:EOLhyphen"/>nary way made ſenſible of theſe combuſtions and diſaſters which then were to befall, and now for ſome yeers have befal<g ref="char:EOLhyphen"/>len this ſinfull Nation and Kingdom: the manner whereof was, as followeth. She heard hideous ſhreeks and outcries of the people oppreſſed, and captivated by enemies: alſo a ſound of waters, as it were, beyond Sea, accompanied with loud and ter<g ref="char:EOLhyphen"/>rible roaring of waves; A voice alſo day and night cried, and called to her, even to the interruption of her reſt and ſleep, ſay<g ref="char:EOLhyphen"/>ing, <hi>Treaſon and death; Treaſon, Treaſon, death, death.</hi> There was preſented likewiſe to her ſight an apparition and ſhew of blood; and to her hearing, vollies of ſhot, as if many Piſtols and Muskets had been all at once diſcharged, which terribly af<g ref="char:EOLhyphen"/>frighted her, and pierced her to the very heart, as if an arrow, or dart of death had remained in her breaſt. A repreſentation alſo of a pen, as if it had been writing upon chalk, appeared un<g ref="char:EOLhyphen"/>to her, as ſhe conceived, to the end that what ſhe ſaw, felt, and heard, ſhe ſhould commit to writing. And that ſhe might be aſ<g ref="char:EOLhyphen"/>ſured, this was a divine and heavenly viſion, certain rayes of glory deſcending from the heavens appeared to her in the day time, and whileſt ſhe was awake, which ſeemed to irradiate her from heaven, even whileſt ſhe was reading the book of God, and
+<pb n="5" facs="tcp:113889:5"/>earneſtly in her private duties praying againſt all ſatanicall il<g ref="char:EOLhyphen"/>luſions: the luſtre of which glorious rayes being viſible to her eye ſeemed to exceed not onely the ſtrrres, but the Sun in his greateſt ſplendour. Furthermore that her faith might be the more confirmed, and her ſoul the better prepared for whatſoe<g ref="char:EOLhyphen"/>ver ſhould enſue, ſhe was ſtrongly moved, and directed to betake her ſelf to faſting and prayer three weeks together: intimating to her thereby, that the terrour of the times enſuing (whereof lively repreſentations had been made unto her in the foregoing apparitions) called hard for ſuch duties: at the end of which ſeverall weeks reſpectively ſhe received an extraordinary ſigne of Gods preſence and aſſiſtance expreſſed in the appearance of glorious ſhining lights, accompanied with vehement ruſhing winde, deſcending upon her, and the ſound thereof entring into her eares three ſeverall times. And to make her yet more ſen<g ref="char:EOLhyphen"/>ſible of the things forementioned, and troubles to come on this Land, while ſhe was at the Church ſerving God publickly with the Congregation, in Sermon-time on the Lords day, there ap<g ref="char:EOLhyphen"/>peared plainly and evidently to her view the perfect ſhape of a Kings head and face without a body, which looked very pale and wan: it had a Crown upon it, and the Crown was all bloodie in the circle round about.</p>
+            <p>This bloodie crowned head appeared to her view once onely, as aforeſaid, and continued ſo in her ſight about half an houre. With this apparition ſhe ſenſibly heard loud and lamentable cryes of Gods people perſecuted, as ſhe thought, both beyond Seas, and on this ſide: ſhe heard very ſenſibly, as it were, a laſh<g ref="char:EOLhyphen"/>ing, and whipping of them, to drive them from the true Church, and their holy duties and profeſſion, accompanied with ſtrange languages of forrain Nations, and that in a confuſed manner, as at the celebration of an idolatrous Maſſe, to which many ſeemed to call them. And the confuſed clamour was ſuch, as the Popiſh Capuchins made at their ſolemne ſuperſtitious Ser<g ref="char:EOLhyphen"/>vice in Somerſet-Houſe, whither (about three or foure yeers ſince now) ſhe purpoſely repaired for her better information in that point, and that ſhe might the more ſenſibly apprehend, and he cleared in the premiſſes, and have more full notice perhaps, ſhe thought, of the chief actors in our tragicall miſeries.
+<pb n="4" facs="tcp:113889:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:113889:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+            <pb n="6" facs="tcp:113889:7"/>
+            <p>She heard another time a voice or ſound of much gold and treaſure, and of all ſorts of Jewels, with a voice whiſpering, as it were, and ſaying theſe words, <hi>Earl, Biſhop, and Queen:</hi> at which time, ſhe cals God to witneſſe, ſhe knew not any Earl or Biſhop ſo guilty, as appeared afterwards.</p>
+            <p>Laſtly, ſhe heard the grievous cries of Gods perſecuted people in her eares, preſſing her to point out, as the enemy of God, the greateſt Biſhop in the Church of <hi>England,</hi> and with him Earl and cruell Queen; having ſet down with her pen; Earl, Biſhop, and Cruell Queen, as was required, the dolefull cry ceaſed. Soon after ſhe was earneſtly commanded, by a celeſtiall voice, to no<g ref="char:EOLhyphen"/>tifie all theſe things to His Majeſty. But fearing to undertake ſo great a task, as conſcious of her own unfitneſſe, as ſhe thought, for the performance of ſo eminent a ſervice, ſhe made onely a ſparing diſcovery to certain godly Divines at <hi>Briſtoll,</hi> and elſe<g ref="char:EOLhyphen"/>where, deſiring their ſpirituall prayers and advice. But finding that neither their prayers, nor her own could prevail with the Lord to ſpare her from this ſervice, ſhe manifeſtly ſaw that ſhe muſt obey of neceſſitie that heavenly voice (which did not ceaſe to call her thereto) though her brethren, and kindred, and her own inclination and deſire ſtrongly diſſwaded her. And whileſt ſhe prayed and wept to the Lord, ſaying with <hi>Moſes; Lord, if thy preſence go not with me, ſend me not hence.</hi> Exod. 33.15. She ſaw, as it were, a light from heaven comforting her, and a ſtar of glory di<g ref="char:EOLhyphen"/>recting her in her way ſhe ſhould travell.</p>
+            <p>Being arrived at <hi>London,</hi> ſhe was ſtrongly puſhed on within her ſelf to addreſſe her ſelf to the Court, which was then at <hi>Whitehall:</hi> whither being come, ſhe earneſtly preſſed in a Petitio<g ref="char:EOLhyphen"/>nary way, to preſent to His Majeſty the effect of what ſhe had heard and ſeen; but ſoon found her ſelf neglected, and her Peti<g ref="char:EOLhyphen"/>tion ſleighted. Notwithſtanding, ſhe had ſtill a ſtrong call from God both inwardly, and outwardly, to follow the King, whi<g ref="char:EOLhyphen"/>therſoever he went, ſaying to her, <hi>The King, the King; The King, and Kingdom is in danger of utter ruine and deſolation.</hi> Not long after, by her importunity ſhe was admitted at <hi>Richmond</hi> to His Maje<g ref="char:EOLhyphen"/>ſties preſence; who graciouſly received her Petition; the Con<g ref="char:EOLhyphen"/>tents being, That He would be pleaſed to hear her at large de<g ref="char:EOLhyphen"/>clare her errand by word of mouth. The means of her admit<g ref="char:EOLhyphen"/>tance
+<pb n="7" facs="tcp:113889:7"/>was by the Lord Marquis <hi>Hambleton,</hi> who was nobly plea<g ref="char:EOLhyphen"/>ſed to call her, and to bring her to the King; who taking her by the one hand, and the Marquis by the other, the King asked her for her writing; Which ſhe having preſented, and His Majeſty ſlightly view'd over, he demanded if it were her own hand: and ſhe confeſſing, that it was, he then viewed it better. But His Ma<g ref="char:EOLhyphen"/>jeſty being then to take horſe, rendred her the ſaid Petition, ſay<g ref="char:EOLhyphen"/>ing, He thought, ſhe meant well, and was a good woman. Here, the Princes Tutor, in election to be Biſhop of <hi>Chichester,</hi> coming to her, asked her, if ſhe wanted means. She replyed, No; telling him, that ſhe came to <hi>London</hi> on her own charges, and had wher<g ref="char:EOLhyphen"/>with to ſerve her occaſions; her coming to Court, having had no other end, but the publick good of King, Church and State; and being bound in ſpirit, ſhe was continually preſt, by Gods hand upon her, to follow His Majeſty from Court to Court, to her great trouble and charge, hiring one to attend her by water and land. His Majeſty being at <hi>York,</hi> there appeared a dark black cloud over the place, where His Majeſty ſtood (the <hi>Scots</hi> had then taken in Newcaſtle) and there ſhe inforced her former ſuit, humbly petitioning him to hear her ſpeak, but without ſuc<g ref="char:EOLhyphen"/>ceſſe; and finding no reſt in her ſpirit for all this, but being ſtill urged to ſollicite His Majeſty: at laſt by Gods providence ſhe found another opportunity, and falling on her knees before him in the Preſence Chamber, moſt humbly beſought him to hear her relation; which he then utterly refuſed. And thereupon it pleaſed God immediately to diſcharge her from all further at<g ref="char:EOLhyphen"/>tendance on His Majeſtie, which ſhe took as a great favour from God; and thereupon returned to <hi>London.</hi>
+            </p>
+            <p>During her abode at <hi>York,</hi> many pious Chriſtians being de<g ref="char:EOLhyphen"/>firous to know the truth of theſe things, ſhe declared it to them, and moreover diſcover'd to them, that it was revealed to her particularly, that great troubles would light upon theſe parts. In <hi>London</hi> having found grace and favour with many Noble Ba<g ref="char:EOLhyphen"/>rons, Knights, and other worthy Chriſtians, both before her going to <hi>York,</hi> and after her return (which ſhe eſteems as a rare mercy from God, knowing her ſelf leſſe then leaſt of any of his favours) ſhe may not omit amongſt others, that ſhe was ſent for by a worthy Divine of an eminent place, and at that time of
+<pb n="6" facs="tcp:113889:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:113889:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:113889:9"/>ſingular eſtimation; who, when he perceived how God had dealt with her, he told her in brief, that he could not, but approve of her deſires, and intendments, as good, and durſt ſay nothing to diſcourage or diſſwade her from the way. So, thenceforth, as when <hi>Eliah</hi> had caſt his mantle upon <hi>Eliſha, Elias</hi> his ſpirit was preſt upon <hi>Eliſha,</hi> not much unlike, though the Lord had ſpoken to her before, and uſed ſtrong impulſes on her ſpirit; yet now the hand of the Lord was ſtronger and ſtronger upon her, and even almoſt in the bitterneſſe of her ſpirit was ſhe carried (as the Prophet ſpeaketh of himſelf, <hi>Ezek.</hi> 3.14. and elſewhere) and ſo powerfull were the impreſſions made on her, that notwithſtand<g ref="char:EOLhyphen"/>ing her great ſtruglings and defires againſt that long and tedi<g ref="char:EOLhyphen"/>ous journey to <hi>York,</hi> which ſhe would fain have been freed of, that at laſt being fully overcome, ſhe could not but follow His Majeſty even to <hi>York</hi> alſo, the love of Chriſt, and of his Church, now conſtraining her. And though ſhe reaped not the fruit of her labour, ſhe deſired; yet as on is reported to have fetched water every day two mile to water dry ground in hope of fruit, which he did a whole yeer together; and was content ſo to do, becauſe he was commanded, thinking it reaſon enough to do things in ſome other reſpects unreaſonable, in meer obedience to ſuperi<g ref="char:EOLhyphen"/>ours: ſo, much more reaſon was it, that ſhe ſhould ſhew her obe<g ref="char:EOLhyphen"/>dience to her God in a duty of ſo high an importance and con<g ref="char:EOLhyphen"/>cernment, as the generall good of Church, King, and Kingdom; which therefore with all her might ſhe ſought to advance, ſay<g ref="char:EOLhyphen"/>ing in her heart with the woman of Tekoa, 2 <hi>Sam.</hi> 14.15. <hi>I will now ſpeak to the King, it may be the King will perform the requeſt of his handmaid.</hi>
+            </p>
+            <p>Now becauſe it hath been queſtioned by ſundry well-affect<g ref="char:EOLhyphen"/>ed, what ſhe would have expreſſed to His Majeſty, if he had been pleaſed to give her audience; You ſhall be pleaſed to know, that the ſubſtance of her ſpeech, ſhe had to expreſſe, would have been as followeth, or to the like purpoſe.</p>
+            <p>Firſt, that His Majeſty would be pleaſed with all his might and power to apply himſelf to the finding out of the great plots and treacheries of Papiſts and their confederates, Prelates and Idol-ſhepherds, and Innovators in Religion; wicked and evill Counſellors, State-idolizers, or rather ſelf-ſeekers and novators
+<pb n="9" facs="tcp:113889:9"/>in the Commonwealth; and with an high hand to ſuppreſſe both, with all idolatry, ſuperſtition and prophanity, and what<g ref="char:EOLhyphen"/>ſoever was againſt found doctrine, the power of godlineſſe, and the well and liberty of His Subjects.</p>
+            <p>Secondly, that Gods faithfull Miniſters and ſervants ſuffering for the cauſe and truth of Chriſt under the tyranny and uſurpa<g ref="char:EOLhyphen"/>tion of Prelates, commonly called Anticonformiſts, Non-con<g ref="char:EOLhyphen"/>formiſts, and Puritanes, and ſometimes alſo Sectaries, and Schiſ<g ref="char:EOLhyphen"/>maticks, might have their freedome and liberty; and thoſe, who were the truly ſo called Sectaries and Schiſmaticks, the Prelates, Anabaptiſts, Antinomians, A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mits, Familiſts, and eſpecially Papiſts, and Arminian Innovators, all ſecretly winked at, and fomented by the Biſhops, might be found out, and tried, that ſo the glorious Goſpel of Chriſt might flouriſh, and have free paſ<g ref="char:EOLhyphen"/>ſage in plenty and in purity through the land.</p>
+            <p>Thirdly, that His Majeſty would be pleaſed with all his might to ſet himſelf to uſe all good means that might be endeavoured for the Queens converſion, that by Gods bleſſing thereupon ſhe might be gained to the truth, to her ſelf, and to him, and for a comfort to the whole Kingdom; without which, ſhe was given to underſtand of the great hazard and trouble, yea, and utter ruine both to King and Kingdom: great hazard and trouble, though all the reſt ſhould be effected, and that left undone; but utter ruine, if neither that, nor the reſt were done. And thus much for the ſubſtance of what ſhe would have ſaid, if His Ma<g ref="char:EOLhyphen"/>jeſty had given her audience.</p>
+            <p>But further, ſince ſhe was diſcharged of attendance upon the King, and ſhortly after His Majeſty with the Queen departed from <hi>London,</hi> and deſerted the Parliament, whereas ſhe had been in good quiet and repoſe till then, ſhe fell again into the like agonies of ſpirit, and hath expreſſed, that her affliction in the ſame hath been very great, being preſſed in like ſort to attend the Parliament, as before ſhe had done the King; ſo that after the Kings leaving of the Parliament, ſhe hath had very little reſt longer, then ſhe was either by expreſſions and ſolicitations to Members of the Houſe of Parliament, endeavouring a reconci<g ref="char:EOLhyphen"/>liation between His Majeſty and the Parliament, or in her pri<g ref="char:EOLhyphen"/>vate and publick duties and exerciſes of Religion powring out
+<pb n="10" facs="tcp:113889:10"/>her ſoul to God for effectuating thereof: ſo that the ſad ſenſe of her walking in theſe times of trouble and diſtreſſe, even to the preſent date of this relation given by her in writ, which was <hi>April</hi> 1644. hath been ſo yet that it can not be expreſſed. Yet hath ſhe not been pleaſed to make ſo full and particular relation of all paſſages between the Parliament and her, as in the other, but hath thought this ſufficient for the preſent.</p>
+            <p>Now, as ſhe hath not held her life dear to confirm this truth of God of this divine work wrought in her; and to manifeſt it to be a divine viſion and heavenly call, would not tempt God therein by too much refuſall and diſobedience, but by faith in God, having her warrant from him, with <hi>Daniel</hi> in the Lyons den, or the three Children in the fiery fornace, ſhe ſubmitted herſelf, and doth, under the mighty hand of God: ſo now ha<g ref="char:EOLhyphen"/>ving with that widow in the Goſpel caſt theſe her ſpiritual mites into the Churches treaſurie, in hope that this her freewill-offer<g ref="char:EOLhyphen"/>ing will be (as ſuch oblations ever were) accepted of God and all good men; ſhe humbly ſubmits her hearty, and well-mean<g ref="char:EOLhyphen"/>ing, though weak endeavours to the charitable cenſure of the godly, wiſe, impartiall and unprejudicate Chriſtians: beſeech<g ref="char:EOLhyphen"/>ing the Almighty God of heaven, if it may ſtand with his glory and good pleaſure, to unite the heart of the King and Parlia<g ref="char:EOLhyphen"/>ment unanimouſly, as the heart of one man, to conſent to that reformation both of Church and State, that the Lord doth re<g ref="char:EOLhyphen"/>quire, that idolatry, ſuperſtition, profanity, faction, godleſſe State-policy (<hi>Jeroboams</hi> ſin) hereſie, ſchiſme, and all intereſt that is not agreeable to Gods intereſt, and his eternall Son the Lord Jeſus his, the onely King and Lord of his Church, being ſwept away, and ſuppreſt, the glorious Goſpel of Chriſt may reflouriſh in its full luſtre, and the Scepter of his Government (ſufficiently declared in his Word to ſuch as with humble ſin<g ref="char:EOLhyphen"/>cerity, and love to the truth to obey it, ſeek the ſame diligent<g ref="char:EOLhyphen"/>ly) may be univerſally obeyed, and ſubmitted to by Prince, Par<g ref="char:EOLhyphen"/>liament, and people: and happie ſhall that people be; that in ſincerity and conſtantly endeavour this; whereas contrarily, oppoſe it who will, they ſhall not proſper to the end; but in his own time, he that ſitteth in the heavens will laugh; the Lord will have them in deriſion, ſaying, yet (for all your falſhood,
+<pb n="11" facs="tcp:113889:10"/>fraud, and force to the contrary) <hi>Yet have I ſet my King upon mine holy hill of Sim,</hi> and that with your envie, <hi>Pſal.</hi> 2.4, 5, 6, 9.10. Be wiſe now therefore O ye Kings;<note place="margin">Revel. 2.9. Cap. 3 7, 8, 9, 10.11.</note> be inſtructed ye Judges of the earth. Leave off ye Sectaries to blaſpheme, and ſay, that ye are the onely Jews, the onely viſible Saints, the preciouſeſt men up<g ref="char:EOLhyphen"/>on earth; whereas ye are not, but are rather the ſynagogue of Satan; and ſubmit your ſelves to the loving, lovely, and belo<g ref="char:EOLhyphen"/>ved <hi>Philadelphia,</hi> where Chriſt myſticall, or his Church in his practicals hath holineſſe, in her doctrinals truth, in her go<g ref="char:EOLhyphen"/>vernment and adminiſtrations the key of <hi>David,</hi> and ſhe onely, how ever weak ſhe may appear in the eye of the world, and hath in truth but a little worldly ſtrength; yet ſuch an open doore ſet before her, that no man ſhall ever be able to ſhut; ſub<g ref="char:EOLhyphen"/>mit your ſelves to her, and be content to worſhip God before her feet, as her daughters and ſchollars, and to acknowledge that Chriſt hath loved her. For ſhe onely of all the Churches on the earth ſhall be delivered out of that fearfull houre of temptation, which now is begun, and ſhall run through, and paſſe upon all the Nations of the world, before it have done, to try all them that dwell upon the earth; and none ſhall have any further ſecurity in a Church, or in a Nationall way, and warrant of delivery, then they flee in to her, and ſubmit them<g ref="char:EOLhyphen"/>ſelves to worſhip before her feet. And ſhe alone ſhall continue that pillar in the Temple of God that ſhall go no more out, on whom ſhall be written the Name of the City of her God, the new Jeruſalem, Jehovah-ſhammah, <hi>Ezek.</hi> 48.35. or, <hi>The Lord is there;</hi> ſhe alone both a Church, and the Church, when all other Churches are gone to ruine, even that Church upon which ſhall be built the Church of the called Jews, and rich fulneſſe of the Gentiles, and ingrafted into her as their ſtock, and hung upon her as glorious lights upon their immoveable pillar of truth: ſhee alone ſhall be that wall on which ſhall be built this palace of ſilver; and ſhe alone, that doore, that ſhall be incloſed with theſe boards of Cedar. <hi>Cant.</hi> 8.9. The which things that ye may all do reſpectively in your places and conditions, to whom this exhortation hath been addreſſed, this mournful widow with this her myte, addeth yet further to pray with the bleſſed Apoſtle, <hi>Col.</hi> 1.9, 10, 11. That all Gods Saints and profeſſors
+<pb n="12" facs="tcp:113889:11"/>may be fulfilled in all knowledge of his will, in all wiſdom, that they may walk worthy of the Lord, unto all pleaſing, being fruitfull in all good works, ſtrengthened with all his glorious power to all patience, that the Lord may rejoyce over you, to do you good, and plant you in this land, and take pleaſure in you with his whole heart and ſoul. <hi>Amen.</hi> Grace be with all them that love our Lord Jeſus Chriſt in ſincerity.<note place="margin">Ier. 32.41. Eph. 6.24.</note> 
+               <hi>Amen.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 22.24.</hi>
+               </bibl>
+               <p>For he hath not deſpiſed, nor abhorred the affliction of the afflicted; neither hath he hid his face from him, but when he cryed unto him, he hath heard.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Revel. 2.2.</hi>
+               </bibl>
+               <p>I know thy work, and thy labour, and thy patience; and how thou canſt not bear them that are evill; and how thou haſt tried them, which ſay, they are Apostles, and are not, and haſt found them lyars.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Revel. 2.3.</hi>
+               </bibl>
+               <p>And haſt born, and haſt patience, and for my Names ſake haſt la<g ref="char:EOLhyphen"/>boured, and haſt not fainted.</p>
+               <p>He that hath an car, let him hear, what the Word ſaith unto <hi>England.</hi>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
